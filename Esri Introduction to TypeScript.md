@@ -2,7 +2,7 @@
 ![Accelebrate Logo](AccelebrateLogoLong.png)
 ![TypeScript Logo](TypeScriptLogoLong.png)
 
-> # **Course Name:  Esri Introduction to TypeScript**
+> # **Course Name:  Introduction to TypeScript**
 > ## **Duration:  2 Days**
 > ## **Instructor:  Jeff McBride**
 > ## **Instructor E-Mail:  jeff@geeklearn.com**
