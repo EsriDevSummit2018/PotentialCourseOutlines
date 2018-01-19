@@ -4,6 +4,8 @@
 
 > # **Course Name:  Esri Introduction to TypeScript**
 > ## **Duration:  2 Days**
+> ## **Instructor:  Jeff McBride**
+> ## **Instructor E-Mail:  jeff@geeklearn.com**
 > ## **Prerequisites:  JavaScript Programming Experience**
 
 ## **Course Overview**
