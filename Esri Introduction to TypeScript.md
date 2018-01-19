@@ -7,7 +7,7 @@
 > ## **Prerequisites:  JavaScript Programming Experience**
 
 ## **Course Overview**
-This course teaches using the TypeScript language combined with existing knowledge of JavaScript for application development.  It does not define what type of development, such as Web Browser or node.js, it concentrates on the TypeScript language syntax and the corresponding JavaScript code that it transpiles into
+This course teaches using the TypeScript language combined with existing knowledge of JavaScript for application development.  It does not define what type of development, such as Web Browser or node.js, it concentrates on the TypeScript language syntax and the corresponding JavaScript code that it transpiles into.
 
 
 ## **Course Topics**
