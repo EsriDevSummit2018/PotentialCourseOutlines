@@ -1,6 +1,4 @@
-![Esri Logo](EsriLogoLong.jpg)
-![Accelebrate Logo](AccelebrateLogoLong.png)
-![TypeScript Logo](TypeScriptLogoLong.png)
+![TypeScript Esri Accelebrate Logos](TypeScriptEsriAccelebrateBanner1000x250.png)
 
 > # **Course Name:  Introduction to TypeScript**
 > ## **Duration:  2 Days**
